@@ -17,10 +17,6 @@ end
 snoopy = Dog.new #=> #<Dog:0x007f970a2edfd0>
 ```
 
-```ruby
-
-```
-
 The code above creates a new instance of the `Dog` class and sets that object equal to a variable, `snoopy`. If we want to give our dog a breed, we have to use the following code:
 
 ```ruby
