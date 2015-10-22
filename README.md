@@ -64,7 +64,7 @@ class Dog
 end
 ```
 
-Now, when we can call `#new` like this:
+Now, we can call `#new` like this:
 
 ```ruby
 lassie = Dog.new("Collie")
