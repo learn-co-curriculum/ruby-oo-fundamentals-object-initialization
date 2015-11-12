@@ -36,7 +36,7 @@ snoopy.breed = "Beagle"
 snoopy.breed #=> "Beagle"
 ```
 
-However, most dogs are born *with* a breed, not assigned a breed afterwards. How can we model the behavoir of dogs being born with a breed in our `Dog` class? If only there was a way for us to assign an individual dog a breed automatically upon creation, or instantiation.
+However, most dogs are born *with* a breed, not assigned a breed afterwards. How can we model the behavior of dogs being born with a breed in our `Dog` class? If only there was a way for us to assign an individual dog a breed automatically upon creation, or instantiation.
 
 Lucky for us, there is! It's called the `#initialize` method.
 
