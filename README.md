@@ -81,3 +81,5 @@ The initialize method is what's called a callback method, because it is automati
 You can also think of the initialize method as a constructor method. A constructor method is invoked upon the creation of an instance of a class and used to help define the instance of that class.
 
 So, because of how we defined our initialize method, every time you type `Dog.new("some breed")`, a new dog instance is created that has a breed of "some breed" (i.e. whatever string you give the `#new` method).
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-initialization' title='Instantiating with #initialize'>Instantiating with #initialize</a> on Learn.co and start learning to code for free.</p>
