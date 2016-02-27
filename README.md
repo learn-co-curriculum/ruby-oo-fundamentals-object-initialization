@@ -1,7 +1,7 @@
 # Instantiating with `#initialize`
 
 ## Objectives
-
+temporarys
 1. What is the `#initialize` method?
 2. How does it work?
 3. What do we use it for?
