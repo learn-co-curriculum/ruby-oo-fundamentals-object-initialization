@@ -81,6 +81,8 @@ You can also think of the initialize method as a constructor method. A construct
 
 So, because of how we defined our initialize method, every time you type `Dog.new("some breed")`, a new dog instance is created that has a breed of "some breed" (i.e. whatever string you give the `#new` method).
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-initialization' title='Instantiating with #initialize'>Instantiating with #initialize</a> on Learn.co and start learning to code for free.</p>
+## Resources 
+
+* [Video Review- Intro to OO](https://github.com/learn-co-curriculum/intro-to-object-orientation-ruby)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-initialization'>Object Initialization</a> on Learn.co and start learning to code for free.</p>
