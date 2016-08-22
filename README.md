@@ -83,6 +83,6 @@ So, because of how we defined our initialize method, every time you type `Dog.ne
 
 ## Resources 
 
-* [Video Review- Intro to OO](https://github.com/learn-co-curriculum/intro-to-object-orientation-ruby)
+* [Video Review- Intro to OO](https://www.youtube.com/watch?v=UysgBTrJoTc)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-initialization'>Object Initialization</a> on Learn.co and start learning to code for free.</p>
