@@ -7,8 +7,6 @@
 
 ## Instantiating Instances of Classes
 
-hi
-
 We've already seen new instances of classes being created with the `#new` method. For example:
 
 ```ruby
