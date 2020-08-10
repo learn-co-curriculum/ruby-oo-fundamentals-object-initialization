@@ -75,7 +75,7 @@ lassie.breed #=> "Collie"
 
 When `#new` is called with an argument, it will pass that argument (or arguments) to the `#initialize` method and invoke that method. The code in `#initialize` will then run, using any arguments from `#new`.
 
-The initialize method is what's called a callback method, because it is automatically invoked every time the `#new` method is used to create a new instance of the class.
+The initialize method is automatically invoked every time the `#new` method is used to create a new instance of the class.
 
 You can also think of the initialize method as a constructor method. A constructor method is invoked upon the creation of an instance of a class and used to help define the instance of that class.
 
