@@ -85,4 +85,4 @@ So, because of how we defined our initialize method, every time you type `Dog.ne
 
 * [Video Review- Intro to OO](https://www.youtube.com/watch?v=UysgBTrJoTc)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-initialization'>Object Initialization</a> on Learn.co and start learning to code for free.</p>
+
