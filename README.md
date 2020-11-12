@@ -1,4 +1,4 @@
-# Instantiating with `#initialize`
+# Object Initialization
 
 ## Objectives
 1. What is the `#initialize` method?
@@ -84,5 +84,3 @@ So, because of how we defined our initialize method, every time you type `Dog.ne
 ## Resources 
 
 * [Video Review- Intro to OO](https://www.youtube.com/watch?v=UysgBTrJoTc)
-
-
